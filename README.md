@@ -1,2 +1,7 @@
-# UNIFUNEC
-Modelo de TCC para o Curso de Tecnologia em Análise e Desenvolvimento de Sistemas - UNIFUNEC
+dcomp-abntex2
+=========================
+
+
+# O projeto agora se encontra em novo endereço:
+
+https://github.com/DCOMP-UFS/abntex2-DCOMP-UFS
